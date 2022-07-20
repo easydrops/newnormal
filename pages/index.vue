@@ -1,13 +1,23 @@
 <template>
-  <main>
-    <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Nuxt — Tailwind — Netlify CMS</h1>
-      <h2 class="subtitle text-center">Boilerplate</h2>
-    </section>
-
-    <section class="mt-8">
-      <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest blog post</h3>
-      <posts post-type="blog" :amount="1" />
-    </section>
+  <main
+    class="bg-top flex flex-col justify-center items-center relative bg-no-repeat main-bg-color"
+    :style="{ backgroundImage: `url(${image})` }"
+  >
+    <div class="w-9/12 p-12">
+      <h1 class="w-4 text-black">NEW NORMAL 2022</h1>
+      <h2 class="w-4 text-black">2.−4. SEPTEMBER PROJEKTRAUM KUNSTVEREIN WAGENHALLE STUTTGART</h2>
+    </div>
   </main>
 </template>
+
+<script>
+import nnRoots from 'assets/nn_roots.png'
+export default {
+  data() {
+    return {
+      image: nnRoots,
+    }
+  },
+}
+</script>
+<style></style>

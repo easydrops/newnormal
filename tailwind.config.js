@@ -13,6 +13,8 @@ module.exports = {
         sans: ['Inter']
       },
       colors: {
+        salmon: '#f8caba',
+        lavender: '#727eb4',
         gray: {
           '50': 'var(--color-gray-50)', // #F9FAFB
           '100': 'var(--color-gray-100)', // #F3F4F6
