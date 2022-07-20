@@ -1,7 +1,7 @@
 {
-  "name": "ntn-boilerplate",
+  "name": "new-normal",
   "version": "2.1.4",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
+  "description": "New Normal 2022",
   "author": "Jan Hoydem",
   "scripts": {
     "dev": "nuxt",
