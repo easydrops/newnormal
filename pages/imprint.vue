@@ -8,7 +8,11 @@
         <h5>Vertreten durch:</h5>
         <p>Weiny Fitui</br>
           Marvin Unger </br> <a href="mailto:info@newnormal2022.de">info@newnormal2022.de</a></p>
-
+        <p>
+          Ein Projekt des Kunstverein Wagenhalle.
+          Gefördert im Impulsprogramm “Kultur trotz Corona” des Ministeriums für Wissenschaft, Forschung und Kunst Baden-Württemberg. Weitere Förderer sind das Kulturamt Stuttgart, Pop-Büro Stuttgart, Ritter Sport und pbb Stiftung.
+          Partner sind contain’t, Sommer Cable und Freies Radio für Stuttgart.
+        </p>
           
            <h5>Gestaltung</h5>
 <p>Y-Thanh Võ</br>

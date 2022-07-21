@@ -1,12 +1,13 @@
 <template>
   <main
-    class="bg-top flex flex-col justify-center items-center relative bg-no-repeat main-bg-color"
+    class="bg-top flex flex-col justify-center items-center relative main-bg-color"
     :style="{ backgroundImage: `url(${image})` }"
   >
+   <section class="w-full max-w-5xl mx-auto">
     <div class="w-9/12 p-12">
-      <h1 class="w-4 text-black">NEW NORMAL 2022</h1>
-      <h2 class="w-4 text-black">2.−4. SEPTEMBER PROJEKTRAUM KUNSTVEREIN WAGENHALLE STUTTGART</h2>
+      <h2 class="w-80 text-black">2.−4. SEPTEMBER</br> PROJEKTRAUM KUNSTVEREIN WAGENHALLE STUTTGART</h2>
     </div>
+    </section>
   </main>
 </template>
 
