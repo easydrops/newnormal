@@ -10,7 +10,7 @@ module.exports = {
     darkMode: 'class',
     extend: {
       fontFamily: {
-        sans: ['Inter']
+        sans: ['SuisseIntl']
       },
       colors: {
         salmon: '#f8caba',
