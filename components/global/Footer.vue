@@ -1,6 +1,6 @@
 <template>
   <footer class="fixed bottom-0 flex w-full justify-between align-center p-3 px-3" aria-label="Footer">
-    <nuxt-link to="/" class="uppercase inline-flex items-center">New Normal 2022</nuxt-link>
+    <nuxt-link to="/" class="uppercase inline-flex items-center"> New Normal 2022 </nuxt-link>
     <ul class="flex">
       <li class="flex-1 p-2">
         <nuxt-link class="uppercase inline-flex items-center" to="/imprint">Imprint</nuxt-link>
@@ -23,7 +23,7 @@ export default {
 
 <style lang="postcss" scoped>
 .nuxt-link-exact-active {
-  @apply text-primary cursor-default;
+  @apply cursor-default underline;
 }
 
 /* Need two because of smoother switching between color modes */

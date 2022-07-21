@@ -4,7 +4,7 @@
       <div class="text-content entry-content clearfix text-black">
         <h2>Imprint</h2>
         <h4>Angaben gemäß § 5 TMG:</h4>
-        <p>Kunstverein Wagenhalle Innerer Nordbahnhof 1 70191 Stuttgart</p>
+        <p>Kunstverein Wagenhalle </br> Innerer Nordbahnhof 1 </br> 70191 Stuttgart</p>
         <h5>Vertreten durch:</h5>
         <p>Weiny Fitui</br>
           Marvin Unger </br> <a href="mailto:info@newnormal2022.de">info@newnormal2022.de</a></p>
